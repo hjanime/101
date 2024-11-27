@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1" pages="11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1" pages="12">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="866" dy="573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1569,6 +1569,117 @@
         </mxCell>
         <mxCell id="e8HBv-oz3a7UtwMmG6Yc-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="TL6PCBI4l8xtfymKEDad-14" target="TL6PCBI4l8xtfymKEDad-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jKhQjeBVx6O560mJ50OT" name="第 13 页">
+    <mxGraphModel dx="755" dy="765" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1QZDKVjp2IQIvAv7LW9g-1" value="rRNA sequences" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;rounded=1;glass=0;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="584" y="49" width="150" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uk0UCI0aDTsy3o92LzrR-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1QZDKVjp2IQIvAv7LW9g-2" target="1QZDKVjp2IQIvAv7LW9g-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1QZDKVjp2IQIvAv7LW9g-2" value="Clean reads" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;rounded=1;glass=0;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="754" y="49" width="150" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1QZDKVjp2IQIvAv7LW9g-3" value="Map to identify rRNA fragments" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="645.5" y="146.5" width="200" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1QZDKVjp2IQIvAv7LW9g-4" value="25-30nt anti-probe sets" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="645.5" y="225" width="200" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1QZDKVjp2IQIvAv7LW9g-5" value="Evaluate depleting potentials" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="645.5" y="301.5" width="200" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1QZDKVjp2IQIvAv7LW9g-6" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;rounded=0;fontSize=17;startSize=8;endSize=8;entryX=0.465;entryY=-0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1QZDKVjp2IQIvAv7LW9g-1" target="1QZDKVjp2IQIvAv7LW9g-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="734" y="144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QZDKVjp2IQIvAv7LW9g-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=17;startSize=8;endSize=8;" edge="1" parent="1" source="1QZDKVjp2IQIvAv7LW9g-3" target="1QZDKVjp2IQIvAv7LW9g-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QZDKVjp2IQIvAv7LW9g-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=17;startSize=8;endSize=8;" edge="1" parent="1" source="1QZDKVjp2IQIvAv7LW9g-4" target="1QZDKVjp2IQIvAv7LW9g-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RXGraBxyJ4mppBRplP-O-1" value="1) Compute probe features" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="951" y="107" width="130" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="RXGraBxyJ4mppBRplP-O-2" value="GC_content" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="1" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RXGraBxyJ4mppBRplP-O-3" value="Target rRNA position" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="57.5" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RXGraBxyJ4mppBRplP-O-4" value="Overall depletion score" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="113.5" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RXGraBxyJ4mppBRplP-O-5" value="MFE " style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="169.5" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RXGraBxyJ4mppBRplP-O-6" value="Self-folding structure" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="227.5" width="146" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="RXGraBxyJ4mppBRplP-O-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1086" y="7.5" width="39" height="243" as="geometry" />
+        </mxCell>
+        <mxCell id="aeUlvBVq6WHwyIGRAmQp-1" value="2) Caculate percentage of depletable rRNA fragments for each probe" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="951" y="301.5" width="325" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aeUlvBVq6WHwyIGRAmQp-2" value="3) Predict probe-rRNA interactions with RIsearch2" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="954" y="379" width="325" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aeUlvBVq6WHwyIGRAmQp-4" value="Filter based on coverage and other constraints" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="1345.0000000000002" y="254.48" width="204.81" height="47.02" as="geometry" />
+        </mxCell>
+        <mxCell id="aeUlvBVq6WHwyIGRAmQp-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=17;startSize=8;endSize=8;exitDx=0;exitDy=0;" edge="1" parent="1" source="uk0UCI0aDTsy3o92LzrR-3" target="aeUlvBVq6WHwyIGRAmQp-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1589.995" y="321.49" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aeUlvBVq6WHwyIGRAmQp-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=17;startSize=8;endSize=8;" edge="1" parent="1" source="aeUlvBVq6WHwyIGRAmQp-2" target="aeUlvBVq6WHwyIGRAmQp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uk0UCI0aDTsy3o92LzrR-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=17;strokeWidth=1.5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="845.5" y="328.5" as="sourcePoint" />
+            <mxPoint x="948" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uk0UCI0aDTsy3o92LzrR-3" value="Report designed probes" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fillColor=#e6d0de;strokeColor=#996185;rounded=0;glass=0;shadow=1;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="160.48" width="204.81" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="uk0UCI0aDTsy3o92LzrR-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=17;strokeWidth=1.5;entryX=0.007;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="aeUlvBVq6WHwyIGRAmQp-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="845.5" y="328" as="sourcePoint" />
+            <mxPoint x="915" y="419.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="876" y="403.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uk0UCI0aDTsy3o92LzrR-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=17;strokeWidth=1.5;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="aeUlvBVq6WHwyIGRAmQp-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="845.5" y="329" as="sourcePoint" />
+            <mxPoint x="939" y="408" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="897" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I1j-SOfU1vDiG-tgaGa3-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1293" y="7.5" width="45" height="363.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
