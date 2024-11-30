@@ -1778,7 +1778,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MkiVZYEHXJPHO2tSxOrd-55" value="1) AS-regulated uORFs" style="rounded=1;arcSize=10;strokeWidth=2;fontSize=16;absoluteArcSize=0;imageAspect=1;whiteSpace=wrap;imageHeight=24;fillColor=#009C00;fontColor=#FFFF00;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1003" y="468" width="200.34" height="55" as="geometry" />
+          <mxGeometry x="986" y="468" width="200.34" height="58" as="geometry" />
         </mxCell>
         <mxCell id="MkiVZYEHXJPHO2tSxOrd-58" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: 0.5px; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(248, 206, 204); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Data Integration&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="979" y="412" width="272" height="35" as="geometry" />
@@ -1796,10 +1796,10 @@
           <mxGeometry x="1351" y="298" width="112" height="127" as="geometry" />
         </mxCell>
         <mxCell id="WV1o4Smu6GvWxbMqGEPr-1" value="2) Translation efficiency and differential uORF activity analysis " style="rounded=1;arcSize=10;strokeWidth=2;fontSize=16;absoluteArcSize=0;imageAspect=1;whiteSpace=wrap;imageHeight=24;fillColor=#009C00;fontColor=#FFFF00;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1232.66" y="470" width="284.34" height="55" as="geometry" />
+          <mxGeometry x="1221" y="468" width="305" height="58" as="geometry" />
         </mxCell>
         <mxCell id="WV1o4Smu6GvWxbMqGEPr-2" value="3) Experiment-specific uORF and motif analysis" style="rounded=1;arcSize=10;strokeWidth=2;fontSize=16;absoluteArcSize=0;imageAspect=1;whiteSpace=wrap;imageHeight=24;fillColor=#009C00;fontColor=#FFFF00;strokeColor=none;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1543" y="470" width="264.34" height="55" as="geometry" />
+          <mxGeometry x="1560" y="468" width="264.34" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
