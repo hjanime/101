@@ -2171,12 +2171,12 @@
         <mxCell id="YR-j2_0HvXUwtnqzEVTw-26" value="Final downwardly mobile mRNAs A&#39;-B&#39;-C" style="rounded=1;arcSize=40;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="855" y="832" width="230" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="YR-j2_0HvXUwtnqzEVTw-27" value="Bowtie2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="YR-j2_0HvXUwtnqzEVTw-3" target="YR-j2_0HvXUwtnqzEVTw-4">
+        <mxCell id="YR-j2_0HvXUwtnqzEVTw-27" value="STAR" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="YR-j2_0HvXUwtnqzEVTw-3" target="YR-j2_0HvXUwtnqzEVTw-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YR-j2_0HvXUwtnqzEVTw-28" value="Bowtie2" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="YR-j2_0HvXUwtnqzEVTw-5" target="YR-j2_0HvXUwtnqzEVTw-6">
+        <mxCell id="YR-j2_0HvXUwtnqzEVTw-28" value="STAR" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="YR-j2_0HvXUwtnqzEVTw-5" target="YR-j2_0HvXUwtnqzEVTw-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
