@@ -2099,19 +2099,19 @@
         <mxCell id="YR-j2_0HvXUwtnqzEVTw-3" value="Arabidopsis/Nicotiana,&#xa;Nicotiana/Arabidopsis" style="rounded=0;arcSize=40;strokeWidth=2;fontSize=16;glass=0;fillColor=#b0e3e6;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="76" y="59" width="175" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="YR-j2_0HvXUwtnqzEVTw-4" value="Ref-Scion" style="rounded=1;arcSize=40;strokeWidth=2;fontSize=16;fillColor=#cdeb8b;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="YR-j2_0HvXUwtnqzEVTw-4" value="Ref-Scion" style="rounded=1;arcSize=40;strokeWidth=2;fontSize=17;fillColor=#cdeb8b;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="96" y="172" width="135" height="54" as="geometry" />
         </mxCell>
         <mxCell id="YR-j2_0HvXUwtnqzEVTw-5" value="Arabidopsis/Nicotiana,&#xa;Nicotiana/Arabidopsis" style="rounded=0;arcSize=40;strokeWidth=2;fontSize=16;fillColor=#b0e3e6;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="417.5" y="59" width="186" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="YR-j2_0HvXUwtnqzEVTw-6" value="Ref-Rootstock" style="rounded=1;arcSize=40;strokeWidth=2;fontSize=16;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="YR-j2_0HvXUwtnqzEVTw-6" value="Ref-Rootstock" style="rounded=1;arcSize=40;strokeWidth=2;fontSize=17;fillColor=#e3c800;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="443" y="177" width="135" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="YR-j2_0HvXUwtnqzEVTw-7" value="C1" style="fontSize=16;fillColor=#f8cecc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="YR-j2_0HvXUwtnqzEVTw-7" value="C1" style="fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="55" y="302" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YR-j2_0HvXUwtnqzEVTw-8" value="C2" style="fontSize=16;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="YR-j2_0HvXUwtnqzEVTw-8" value="C2" style="fontSize=16;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="191" y="300" width="78" height="54" as="geometry" />
         </mxCell>
         <mxCell id="YR-j2_0HvXUwtnqzEVTw-53" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YR-j2_0HvXUwtnqzEVTw-9">
@@ -2125,10 +2125,10 @@
         <mxCell id="YR-j2_0HvXUwtnqzEVTw-10" value="C4" style="fontSize=16;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="541" y="300" width="78" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="YR-j2_0HvXUwtnqzEVTw-11" value="Ref-Rootstock" style="rounded=1;arcSize=40;strokeWidth=2;fontSize=16;fillColor=#f0a30a;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="YR-j2_0HvXUwtnqzEVTw-11" value="Ref-Rootstock" style="rounded=1;arcSize=40;strokeWidth=2;fontSize=17;fillColor=#e3c800;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="161" y="425" width="139" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="YR-j2_0HvXUwtnqzEVTw-12" value="Ref-Scion" style="rounded=1;arcSize=40;strokeWidth=2;fontSize=16;fillColor=#cdeb8b;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="YR-j2_0HvXUwtnqzEVTw-12" value="Ref-Scion" style="rounded=1;arcSize=40;strokeWidth=2;fontSize=17;fillColor=#cdeb8b;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="574" y="425" width="139" height="57" as="geometry" />
         </mxCell>
         <mxCell id="YR-j2_0HvXUwtnqzEVTw-56" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YR-j2_0HvXUwtnqzEVTw-13" target="YR-j2_0HvXUwtnqzEVTw-54">
@@ -2141,11 +2141,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YR-j2_0HvXUwtnqzEVTw-13" value="Candidate upwardly &#xa;mobile mRNAs B" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;fillColor=#d80073;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="YR-j2_0HvXUwtnqzEVTw-13" value="Candidate upwardly &#xa;mobile mRNAs B" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;fillColor=#d80073;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="347" y="423" width="188.5" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="YR-j2_0HvXUwtnqzEVTw-25" value="Final upwardly mobile mRNAs&#xa; A-B-C&#39;" style="rounded=1;arcSize=40;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="324" y="831" width="230" height="78" as="geometry" />
+        <mxCell id="YR-j2_0HvXUwtnqzEVTw-25" value="Final upwardly mobile mRNAs&#xa; A-B-C&#39;" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#000000;fillColor=#f0a30a;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="243" y="807" width="233" height="59" as="geometry" />
         </mxCell>
         <mxCell id="YR-j2_0HvXUwtnqzEVTw-27" value="STAR" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" source="YR-j2_0HvXUwtnqzEVTw-3" target="YR-j2_0HvXUwtnqzEVTw-4">
           <mxGeometry relative="1" as="geometry">
@@ -2202,13 +2202,14 @@
             <mxPoint x="231" y="538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YR-j2_0HvXUwtnqzEVTw-48" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontSize=16;startSize=8;endSize=8;" edge="1" parent="1" target="YR-j2_0HvXUwtnqzEVTw-25">
+        <mxCell id="YR-j2_0HvXUwtnqzEVTw-48" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;fontSize=16;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="439" y="775" as="sourcePoint" />
+            <mxPoint x="359" y="759" as="sourcePoint" />
+            <mxPoint x="359" y="807" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YR-j2_0HvXUwtnqzEVTw-54" value="Candidate upwardly &#xa;mobile mRNAs A" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;fillColor=#d80073;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="YR-j2_0HvXUwtnqzEVTw-54" value="Candidate upwardly &#xa;mobile mRNAs A" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;fillColor=#a20025;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="146.25" y="548" width="188.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="YR-j2_0HvXUwtnqzEVTw-59" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;" edge="1" parent="1">
@@ -2267,10 +2268,10 @@
             <mxPoint x="-9" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YR-j2_0HvXUwtnqzEVTw-66" value="False positive C&#39; &#xa;unexpressed genes" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="YR-j2_0HvXUwtnqzEVTw-66" value="False positive C&#39; &#xa;unexpressed genes" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="291" y="679" width="160" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="YR-j2_0HvXUwtnqzEVTw-67" value="False positive B&#39; &#xa;self-hit genes" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="YR-j2_0HvXUwtnqzEVTw-67" value="False positive B&#39; &#xa;self-hit genes" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=16;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="293" y="615" width="160" height="57" as="geometry" />
         </mxCell>
       </root>
