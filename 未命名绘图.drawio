@@ -256,11 +256,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-1" value="必需基因的&#xa;系统性筛选策略" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-99" y="136" width="236" height="54" as="geometry" />
+        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-1" value="害虫必需基因的&#xa;系统性筛选策略" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="136" width="188" height="67" as="geometry" />
         </mxCell>
         <mxCell id="x7b1DfMmw7gDYlsR1aEZ-2" value="整合多组学数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="598" y="84" width="156" height="54" as="geometry" />
+          <mxGeometry x="534.5" y="68" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="x7b1DfMmw7gDYlsR1aEZ-4" value="2）基于近缘物种的同源比对" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="164" y="131" width="260" height="50" as="geometry" />
@@ -271,14 +271,14 @@
         <mxCell id="x7b1DfMmw7gDYlsR1aEZ-6" value="转录组表达分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="531" y="148.5" width="163" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-7" value=" BLAST比对" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="179" y="359" width="208" height="51" as="geometry" />
+        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-7" value=" 1）BLAST比对" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="187" y="352" width="208" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-8" value="系统发育分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="179" y="424.5" width="216" height="54" as="geometry" />
+        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-8" value="2）系统发育分析" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="187" y="414" width="216" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-9" value="siRNA有效性预测框架" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="181" y="494" width="212" height="54" as="geometry" />
+        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-9" value="siRNA有效性预测" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="202" y="769" width="212" height="54" as="geometry" />
         </mxCell>
         <mxCell id="x7b1DfMmw7gDYlsR1aEZ-20" value="1）总结湿实验验证的结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="164" y="61" width="260" height="50" as="geometry" />
@@ -289,11 +289,26 @@
         <mxCell id="x7b1DfMmw7gDYlsR1aEZ-23" value="蛋白质组鉴定分泌蛋白" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="531" y="203" width="163" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-25" value="靶标特异性评估框架" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-86" y="383.5" width="230" height="51" as="geometry" />
+        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-25" value="靶标特异性评估" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="337" width="230" height="51" as="geometry" />
         </mxCell>
         <mxCell id="x7b1DfMmw7gDYlsR1aEZ-27" value="计算靶基因与非靶标物种的保守性" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="414" y="389" width="216" height="54" as="geometry" />
+          <mxGeometry x="191" y="475" width="216" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-29" value="1）构建靶标和非靶标物种的本地数据库" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="186" y="287" width="216" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-30" value="dsRNA脱靶效应评估" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-56" y="565" width="230" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-32" value="通过滑动窗口分析模拟Dicer切割" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="194" y="565" width="216" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-33" value="计算siRNA对害虫转录本的覆盖效率" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="194" y="636" width="216" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="x7b1DfMmw7gDYlsR1aEZ-34" value="dsRNA二级结构预测" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="198" y="705" width="216" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
