@@ -2342,7 +2342,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4Xe6YAgmH8CoEBpk80jf" name="第 19 页">
-    <mxGraphModel dx="1026" dy="658" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2358,13 +2358,13 @@
         <mxCell id="qMoo7bDINRrNSz3dVk-d-4" value="BLAST比对目标基因组" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="404" y="431" width="216" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="qMoo7bDINRrNSz3dVk-d-5" value="是否找到匹配基因?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="qMoo7bDINRrNSz3dVk-d-5" value="是否是匹配&#xa;目标物种基因?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="418" y="531" width="188" height="93" as="geometry" />
         </mxCell>
         <mxCell id="qMoo7bDINRrNSz3dVk-d-6" value="确定基因位置和结构" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="298" y="696" width="204" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="qMoo7bDINRrNSz3dVk-d-7" value="报错并退出" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="qMoo7bDINRrNSz3dVk-d-7" value="警告并退出" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="552" y="696" width="140" height="54" as="geometry" />
         </mxCell>
         <mxCell id="qMoo7bDINRrNSz3dVk-d-8" value="生成siRNA序列" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
