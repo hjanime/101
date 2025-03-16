@@ -2390,7 +2390,7 @@
         <mxCell id="e5S3WAp2NqRhmSOZjLHv-12" value="生成数据和可视化图表" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=light-dark(#D0D08A,#5BB3E6);strokeColor=none;rounded=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="254" y="1099" width="220" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="e5S3WAp2NqRhmSOZjLHv-13" value="记录到siRNA.bad.tsv" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#FFCC99;strokeColor=#FFFFFF;fontColor=#1A1A1A;rounded=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="e5S3WAp2NqRhmSOZjLHv-13" value="记录到siRNA.bad.tsv" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#DEB4A0;strokeColor=#FFFFFF;fontColor=#1A1A1A;rounded=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1065" y="392" width="207" height="78" as="geometry" />
         </mxCell>
         <mxCell id="e5S3WAp2NqRhmSOZjLHv-14" value="记录到siRNA.all.tsv" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=none;rounded=1;fontSize=20;" vertex="1" parent="1">
@@ -2404,7 +2404,7 @@
         <mxCell id="e5S3WAp2NqRhmSOZjLHv-16" value="是否所有&#xa;评估通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#D8A0C1;strokeColor=#FFFFFF;fontColor=#1A1A1A;rounded=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="658" y="812" width="188" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="e5S3WAp2NqRhmSOZjLHv-17" value="记录到siRNA.good.tsv" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#ffcccc;strokeColor=none;rounded=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="e5S3WAp2NqRhmSOZjLHv-17" value="记录到siRNA.good.tsv" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#DE9D61;strokeColor=none;rounded=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="820" y="180" width="215" height="78" as="geometry" />
         </mxCell>
         <mxCell id="e5S3WAp2NqRhmSOZjLHv-18" value="应用滑动窗口生成&#xa;dsRNA片段" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#e3c800;strokeColor=none;rounded=1;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
