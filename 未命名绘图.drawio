@@ -3182,8 +3182,8 @@
         <mxCell id="ZWd1MHPdr7giDPwunoRY-81" value="列标准化: z-score" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2906" y="1069" width="218" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="ZWd1MHPdr7giDPwunoRY-83" value="主要功能：&#xa;    1. 读取BLAST bitscore矩阵&#xa;    2. 应用阈值处理&#xa;    3. 对查询物种的值进行归一化&#xa;    4. 应用转换函数&#xa;    5. 列和行标准化&#xa;    6. 保存结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;verticalAlign=middle;horizontal=1;spacing=3;spacingTop=1;fillColor=#bac8d3;strokeColor=none;align=left;spacingLeft=10;spacingRight=1;" vertex="1" parent="1">
-          <mxGeometry x="3382" y="234" width="260" height="180" as="geometry" />
+        <mxCell id="ZWd1MHPdr7giDPwunoRY-83" value="主要功能：&#xa;    1. 读取BLAST bitscore矩阵&#xa;    2. 应用阈值处理&#xa;    3. 对查询物种的值进行归一化&#xa;    4. 应用转换函数&#xa;    5. 列和行标准化&#xa;    6. 保存NPP结果" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;verticalAlign=middle;horizontal=1;spacing=3;spacingTop=1;fillColor=#bac8d3;strokeColor=none;align=left;spacingLeft=10;spacingRight=1;" vertex="1" parent="1">
+          <mxGeometry x="3386" y="234" width="320" height="202" as="geometry" />
         </mxCell>
         <mxCell id="ZWd1MHPdr7giDPwunoRY-86" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;startSize=8;endSize=8;strokeWidth=2;" edge="1" parent="1" source="ZWd1MHPdr7giDPwunoRY-59" target="ZWd1MHPdr7giDPwunoRY-60">
           <mxGeometry relative="1" as="geometry">
