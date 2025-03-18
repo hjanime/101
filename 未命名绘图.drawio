@@ -2628,115 +2628,128 @@
         <mxCell id="e5S3WAp2NqRhmSOZjLHv-63" value="&lt;strong style=&quot;color: rgb(64, 64, 64); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;SEED: Species-specific Efficient Ecofriendly dsRNA Designer&amp;nbsp;&lt;/strong&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#1A1A1A;fontSize=25;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="572" y="30" width="971.67" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="sK-7Dq8geXuOFwGfNU4a-1" value="dsRNA_per_gene Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=#6F0000;fontSize=18;rounded=1;fillColor=#a20025;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="987.0000000000001" y="980" width="249.66666666666674" height="278" as="geometry" />
+        <mxCell id="sK-7Dq8geXuOFwGfNU4a-1" value="dsRNA per gene Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=#6F0000;fontSize=18;rounded=1;fillColor=#a20025;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="1550" y="903" width="229" height="308" as="geometry" />
         </mxCell>
         <mxCell id="SwNzazwnMwNfXb9t2GSo-4" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="sK-7Dq8geXuOFwGfNU4a-1" vertex="1">
-          <mxGeometry y="30" width="249.66666666666674" height="30" as="geometry" />
+          <mxGeometry y="30" width="229" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SwNzazwnMwNfXb9t2GSo-5" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="SwNzazwnMwNfXb9t2GSo-4" vertex="1">
+        <mxCell id="SwNzazwnMwNfXb9t2GSo-5" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=#fad9d5;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#ae4132;fontSize=16;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="SwNzazwnMwNfXb9t2GSo-4" vertex="1">
           <mxGeometry width="40" height="30" as="geometry">
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SwNzazwnMwNfXb9t2GSo-6" value="&lt;table style=&quot;border-collapse: collapse; width: 65pt;&quot; width=&quot;87&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 65pt;&quot; width=&quot;87&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 16pt;&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap-mode: nowrap; height: 16pt; width: 65pt;&quot; width=&quot;87&quot; height=&quot;21&quot;&gt;TranscriptID&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="SwNzazwnMwNfXb9t2GSo-4" vertex="1">
-          <mxGeometry x="40" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+          <mxGeometry x="40" width="189" height="30" as="geometry">
+            <mxRectangle width="189" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTQ7zmyedXQNH94j-YOq-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="sK-7Dq8geXuOFwGfNU4a-1">
+          <mxGeometry y="60" width="229" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cTQ7zmyedXQNH94j-YOq-2" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=#fad9d5;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#ae4132;fontSize=16;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="cTQ7zmyedXQNH94j-YOq-1">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTQ7zmyedXQNH94j-YOq-3" value="&lt;table style=&quot;border-collapse: collapse; width: 65pt;&quot; width=&quot;87&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 65pt;&quot; width=&quot;87&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 16pt;&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap-mode: nowrap; height: 16pt; width: 65pt;&quot; width=&quot;87&quot; height=&quot;21&quot;&gt;TranscriptID&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="cTQ7zmyedXQNH94j-YOq-1">
+          <mxGeometry x="40" width="189" height="30" as="geometry">
+            <mxRectangle width="189" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NyQJ6bbFyxKeu3NC8-T4-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="sK-7Dq8geXuOFwGfNU4a-1">
-          <mxGeometry y="60" width="249.66666666666674" height="30" as="geometry" />
+          <mxGeometry y="90" width="229" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NyQJ6bbFyxKeu3NC8-T4-2" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="NyQJ6bbFyxKeu3NC8-T4-1">
+        <mxCell id="NyQJ6bbFyxKeu3NC8-T4-2" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=#fad9d5;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#ae4132;fontSize=16;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="NyQJ6bbFyxKeu3NC8-T4-1">
           <mxGeometry width="40" height="30" as="geometry">
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NyQJ6bbFyxKeu3NC8-T4-3" value="&lt;table style=&quot;border-collapse: collapse; width: 65pt;&quot; width=&quot;87&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 65pt;&quot; width=&quot;87&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 16pt;&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap-mode: nowrap; height: 16pt; width: 65pt;&quot; width=&quot;87&quot; height=&quot;21&quot;&gt;best_dsRNA_start&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="NyQJ6bbFyxKeu3NC8-T4-1">
-          <mxGeometry x="40" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+          <mxGeometry x="40" width="189" height="30" as="geometry">
+            <mxRectangle width="189" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sK-7Dq8geXuOFwGfNU4a-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="sK-7Dq8geXuOFwGfNU4a-1" vertex="1">
-          <mxGeometry y="90" width="249.66666666666674" height="30" as="geometry" />
+          <mxGeometry y="120" width="229" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sK-7Dq8geXuOFwGfNU4a-3" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="sK-7Dq8geXuOFwGfNU4a-2" vertex="1">
+        <mxCell id="sK-7Dq8geXuOFwGfNU4a-3" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=#fad9d5;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#ae4132;fontSize=16;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="sK-7Dq8geXuOFwGfNU4a-2" vertex="1">
           <mxGeometry width="40" height="30" as="geometry">
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sK-7Dq8geXuOFwGfNU4a-4" value="&lt;table style=&quot;border-collapse: collapse; width: 65pt;&quot; width=&quot;87&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 65pt;&quot; width=&quot;87&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 16pt;&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap-mode: nowrap; height: 16pt; width: 65pt;&quot; width=&quot;87&quot; height=&quot;21&quot;&gt;best_dsRNA_stop&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="sK-7Dq8geXuOFwGfNU4a-2" vertex="1">
-          <mxGeometry x="40" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+          <mxGeometry x="40" width="189" height="30" as="geometry">
+            <mxRectangle width="189" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sK-7Dq8geXuOFwGfNU4a-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="sK-7Dq8geXuOFwGfNU4a-1" vertex="1">
-          <mxGeometry y="120" width="249.66666666666674" height="34" as="geometry" />
+          <mxGeometry y="150" width="229" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="sK-7Dq8geXuOFwGfNU4a-6" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="sK-7Dq8geXuOFwGfNU4a-5" vertex="1">
+        <mxCell id="sK-7Dq8geXuOFwGfNU4a-6" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=#fad9d5;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#ae4132;fontSize=16;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="sK-7Dq8geXuOFwGfNU4a-5" vertex="1">
           <mxGeometry width="40" height="34" as="geometry">
             <mxRectangle width="40" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sK-7Dq8geXuOFwGfNU4a-7" value="&lt;table style=&quot;border-collapse: collapse; width: 65pt;&quot; width=&quot;87&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 65pt;&quot; width=&quot;87&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 16pt;&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap-mode: nowrap; height: 16pt; width: 65pt;&quot; width=&quot;87&quot; height=&quot;21&quot;&gt;Transcript_length&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="sK-7Dq8geXuOFwGfNU4a-5" vertex="1">
-          <mxGeometry x="40" width="210" height="34" as="geometry">
-            <mxRectangle width="210" height="34" as="alternateBounds" />
+          <mxGeometry x="40" width="189" height="34" as="geometry">
+            <mxRectangle width="189" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sK-7Dq8geXuOFwGfNU4a-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="sK-7Dq8geXuOFwGfNU4a-1" vertex="1">
-          <mxGeometry y="154" width="249.66666666666674" height="30" as="geometry" />
+          <mxGeometry y="184" width="229" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sK-7Dq8geXuOFwGfNU4a-9" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="sK-7Dq8geXuOFwGfNU4a-8" vertex="1">
+        <mxCell id="sK-7Dq8geXuOFwGfNU4a-9" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=#fad9d5;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#ae4132;fontSize=16;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="sK-7Dq8geXuOFwGfNU4a-8" vertex="1">
           <mxGeometry width="40" height="30" as="geometry">
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sK-7Dq8geXuOFwGfNU4a-10" value="&lt;table style=&quot;border-collapse: collapse; width: 65pt;&quot; width=&quot;87&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 65pt;&quot; width=&quot;87&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 16pt;&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap-mode: nowrap; height: 16pt; width: 65pt;&quot; width=&quot;87&quot; height=&quot;21&quot;&gt;Count_of good_siRNAs&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="sK-7Dq8geXuOFwGfNU4a-8" vertex="1">
-          <mxGeometry x="40" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+        <mxCell id="sK-7Dq8geXuOFwGfNU4a-10" value="&lt;table style=&quot;border-collapse: collapse; width: 65pt;&quot; width=&quot;87&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 65pt;&quot; width=&quot;87&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 16pt;&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap-mode: nowrap; height: 16pt; width: 65pt;&quot; width=&quot;87&quot; height=&quot;21&quot;&gt;Count of good siRNAs&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" parent="sK-7Dq8geXuOFwGfNU4a-8" vertex="1">
+          <mxGeometry x="40" width="189" height="30" as="geometry">
+            <mxRectangle width="189" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NyQJ6bbFyxKeu3NC8-T4-4" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="sK-7Dq8geXuOFwGfNU4a-1">
-          <mxGeometry y="184" width="249.66666666666674" height="30" as="geometry" />
+          <mxGeometry y="214" width="229" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NyQJ6bbFyxKeu3NC8-T4-5" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="NyQJ6bbFyxKeu3NC8-T4-4">
+        <mxCell id="NyQJ6bbFyxKeu3NC8-T4-5" value="7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=#fad9d5;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#ae4132;fontSize=16;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="NyQJ6bbFyxKeu3NC8-T4-4">
           <mxGeometry width="40" height="30" as="geometry">
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NyQJ6bbFyxKeu3NC8-T4-6" value="&lt;table style=&quot;border-collapse: collapse; width: 65pt;&quot; width=&quot;87&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 65pt;&quot; width=&quot;87&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 16pt;&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap-mode: nowrap; height: 16pt; width: 65pt;&quot; width=&quot;87&quot; height=&quot;21&quot;&gt;dsRNA_sequence&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="NyQJ6bbFyxKeu3NC8-T4-4">
-          <mxGeometry x="40" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+          <mxGeometry x="40" width="189" height="30" as="geometry">
+            <mxRectangle width="189" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NyQJ6bbFyxKeu3NC8-T4-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="sK-7Dq8geXuOFwGfNU4a-1">
-          <mxGeometry y="214" width="249.66666666666674" height="34" as="geometry" />
+          <mxGeometry y="244" width="229" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="NyQJ6bbFyxKeu3NC8-T4-8" value="7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="NyQJ6bbFyxKeu3NC8-T4-7">
+        <mxCell id="NyQJ6bbFyxKeu3NC8-T4-8" value="8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=#fad9d5;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#ae4132;fontSize=16;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="NyQJ6bbFyxKeu3NC8-T4-7">
           <mxGeometry width="40" height="34" as="geometry">
             <mxRectangle width="40" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NyQJ6bbFyxKeu3NC8-T4-9" value="&lt;table style=&quot;border-collapse: collapse; width: 65pt;&quot; width=&quot;87&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 65pt;&quot; width=&quot;87&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 16pt;&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap-mode: nowrap; height: 16pt; width: 65pt;&quot; width=&quot;87&quot; height=&quot;21&quot;&gt;dsRNA_structure&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="NyQJ6bbFyxKeu3NC8-T4-7">
-          <mxGeometry x="40" width="210" height="34" as="geometry">
-            <mxRectangle width="210" height="34" as="alternateBounds" />
+          <mxGeometry x="40" width="189" height="34" as="geometry">
+            <mxRectangle width="189" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NyQJ6bbFyxKeu3NC8-T4-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="sK-7Dq8geXuOFwGfNU4a-1">
-          <mxGeometry y="248" width="249.66666666666674" height="30" as="geometry" />
+          <mxGeometry y="278" width="229" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NyQJ6bbFyxKeu3NC8-T4-11" value="8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="NyQJ6bbFyxKeu3NC8-T4-10">
+        <mxCell id="NyQJ6bbFyxKeu3NC8-T4-11" value="9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=#fad9d5;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#ae4132;fontSize=16;rounded=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="NyQJ6bbFyxKeu3NC8-T4-10">
           <mxGeometry width="40" height="30" as="geometry">
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NyQJ6bbFyxKeu3NC8-T4-12" value="&lt;table style=&quot;border-collapse: collapse; width: 65pt;&quot; width=&quot;87&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 65pt;&quot; width=&quot;87&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 16pt;&quot; height=&quot;21&quot;&gt;&lt;td style=&quot;padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: &amp;quot;Aptos Narrow&amp;quot;, sans-serif; vertical-align: bottom; border: none; text-wrap-mode: nowrap; height: 16pt; width: 65pt;&quot; width=&quot;87&quot; height=&quot;21&quot;&gt;dsRNA_fdscore&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;rounded=1;fontColor=#1A1A1A;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="NyQJ6bbFyxKeu3NC8-T4-10">
-          <mxGeometry x="40" width="210" height="30" as="geometry">
-            <mxRectangle width="210" height="30" as="alternateBounds" />
+          <mxGeometry x="40" width="189" height="30" as="geometry">
+            <mxRectangle width="189" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Mkl71jvcbG3kn4hjNDE--1" value="Parameter" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=#6F0000;fontSize=18;rounded=1;fontColor=#ffffff;fillColor=#a20025;gradientColor=none;arcSize=9;" parent="1" vertex="1">
-          <mxGeometry x="-261" y="131" width="457.9999999999995" height="393" as="geometry" />
+          <mxGeometry x="-204" y="147" width="457.9999999999995" height="393" as="geometry" />
         </mxCell>
         <mxCell id="Mkl71jvcbG3kn4hjNDE--2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=18;rounded=1;fontColor=#1A1A1A;" parent="Mkl71jvcbG3kn4hjNDE--1" vertex="1">
           <mxGeometry y="30" width="457.9999999999995" height="30" as="geometry" />
