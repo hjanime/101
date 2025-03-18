@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="20">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="21">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="866" dy="573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -3340,6 +3340,209 @@
         </mxCell>
         <mxCell id="ZWd1MHPdr7giDPwunoRY-162" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#182E3E;fontSize=12;fontColor=#1A1A1A;startSize=8;endSize=8;" edge="1" parent="1" source="ZWd1MHPdr7giDPwunoRY-66" target="ZWd1MHPdr7giDPwunoRY-66">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rme8jcETn6yIPAlddKIW" name="第 22 页">
+    <mxGraphModel dx="2052" dy="1316" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PORQeJfc5ye7-6kHceRO-2" value="Input Data" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="736" y="124" width="135" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-3" value="Feature Selection Methods&#xa;特征选择方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="678.5" y="228" width="250" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-4" value="Standard Deviation&#xa;标准差" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="303" y="367" width="196" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-5" value="Coefficient of Variation&#xa;变异系数" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="549" y="367" width="228" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-6" value="Median Absolute Deviation&#xa;中位数绝对偏差" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="826" y="367" width="249" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-7" value="Ability to Correlate to other rows&#xa;与其他行的相关性能力" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="355" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-8" value="Partitioning Methods&#xa;分类方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="700" y="483" width="207" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-9" value="Hierarchical Clustering&#xa;层次聚类" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="20" y="621" width="224" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-10" value="K-Means Clustering&#xa;K均值聚类" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="294" y="621" width="196" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-11" value="Spherical K-Means Clustering&#xa;球形K均值聚类" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="540" y="609" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-12" value="Partitioning Around Medoids&#xa;围绕中心点的分区" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="850" y="609" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-13" value="Model-Based Clustering&#xa;基于模型的聚类" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="621" width="227" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-14" value="Non-Negative Matrix Factorization&#xa;非负矩阵分解" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1436" y="609" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-15" value="Consensus Partitioning&#xa;识别保守分区" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="693" y="737" width="221" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-16" value="Output Results" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="721" y="841" width="165" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-2" target="PORQeJfc5ye7-6kHceRO-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-20" value="SD" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-3" target="PORQeJfc5ye7-6kHceRO-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="401" y="318" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-21" value="CV" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-3" target="PORQeJfc5ye7-6kHceRO-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="663" y="318" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-22" value="MAD" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-3" target="PORQeJfc5ye7-6kHceRO-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="951" y="318" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-23" value="ATC" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0.5;entryY=-0.01;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-3" target="PORQeJfc5ye7-6kHceRO-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1255" y="318" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.26;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-4" target="PORQeJfc5ye7-6kHceRO-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="401" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.09;entryY=-0.01;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-5" target="PORQeJfc5ye7-6kHceRO-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="663" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.82;entryY=-0.01;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-6" target="PORQeJfc5ye7-6kHceRO-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="951" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.26;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-7" target="PORQeJfc5ye7-6kHceRO-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1255" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-28" value="hclust" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-8" target="PORQeJfc5ye7-6kHceRO-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="132" y="573" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-29" value="kmeans" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.5;entryY=0;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-8" target="PORQeJfc5ye7-6kHceRO-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="392" y="573" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-30" value="skmeans" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-8" target="PORQeJfc5ye7-6kHceRO-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="573" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-31" value="pam" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-8" target="PORQeJfc5ye7-6kHceRO-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="573" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-32" value="mclust" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-8" target="PORQeJfc5ye7-6kHceRO-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1273" y="573" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-33" value="NMF" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-8" target="PORQeJfc5ye7-6kHceRO-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1566" y="573" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.34;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-9" target="PORQeJfc5ye7-6kHceRO-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="132" y="712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.24;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-10" target="PORQeJfc5ye7-6kHceRO-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="392" y="712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.18;entryY=0;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-11" target="PORQeJfc5ye7-6kHceRO-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.91;entryY=0;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-12" target="PORQeJfc5ye7-6kHceRO-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.27;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-13" target="PORQeJfc5ye7-6kHceRO-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1273" y="712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.36;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-14" target="PORQeJfc5ye7-6kHceRO-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1566" y="712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PORQeJfc5ye7-6kHceRO-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;startSize=8;endSize=8;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-15" target="PORQeJfc5ye7-6kHceRO-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
