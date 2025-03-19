@@ -3494,7 +3494,7 @@
         <mxCell id="PORQeJfc5ye7-6kHceRO-6" value="Median Absolute Deviation&#xa;中位数绝对偏差" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="826" y="355" width="249" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="PORQeJfc5ye7-6kHceRO-7" value="Ability to correlation&#xa;与其他行的相关性能力" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="PORQeJfc5ye7-6kHceRO-7" value="Ability to correlation&#xa;与其他行的皮尔逊相关系数" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#ffcd28;strokeColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1125" y="355" width="249" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PORQeJfc5ye7-6kHceRO-8" value="Partitioning Methods&#xa;分类方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=none;gradientColor=#B385CC;" vertex="1" parent="1">
@@ -3515,7 +3515,7 @@
         <mxCell id="PORQeJfc5ye7-6kHceRO-13" value="Model-Based Clustering&#xa;基于模型的聚类" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1160" y="609" width="227" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PORQeJfc5ye7-6kHceRO-14" value="Non-Negative Matrix Factorization&#xa;非负矩阵分解" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="PORQeJfc5ye7-6kHceRO-14" value="Non-Negative Matrix Factorization&#xa;非负矩阵分解" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#ffcd28;strokeColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1414" y="609" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PORQeJfc5ye7-6kHceRO-15" value="Consensus Partitioning&#xa;识别保守分区" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#ffcd28;strokeColor=none;gradientColor=#ffa500;" vertex="1" parent="1">
