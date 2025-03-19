@@ -3479,10 +3479,10 @@
         <mxCell id="zC2odfGHrWpmwgSnGdQP-1" value="                                       阈值处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="457" width="1685" height="352" as="geometry" />
         </mxCell>
-        <mxCell id="PORQeJfc5ye7-6kHceRO-2" value="Input Data" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=none;gradientColor=#b3b3b3;" vertex="1" parent="1">
-          <mxGeometry x="736" y="124" width="135" height="54" as="geometry" />
+        <mxCell id="PORQeJfc5ye7-6kHceRO-2" value="Input Data" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=none;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="700" y="124" width="205" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="PORQeJfc5ye7-6kHceRO-3" value="Feature Selection Methods&#xa;特征选择方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="PORQeJfc5ye7-6kHceRO-3" value="Feature Selection Methods&#xa;特征选择方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#b1ddf0;strokeColor=none;gradientColor=light-dark(#708fbd, #436697);" vertex="1" parent="1">
           <mxGeometry x="678.5" y="228" width="250" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PORQeJfc5ye7-6kHceRO-4" value="Standard Deviation&#xa;标准差" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
@@ -3497,7 +3497,7 @@
         <mxCell id="PORQeJfc5ye7-6kHceRO-7" value="Ability to correlation&#xa;与其他行的相关性能力" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1125" y="355" width="249" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="PORQeJfc5ye7-6kHceRO-8" value="Partitioning Methods&#xa;分类方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="PORQeJfc5ye7-6kHceRO-8" value="Partitioning Methods&#xa;分类方法" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=none;gradientColor=#B385CC;" vertex="1" parent="1">
           <mxGeometry x="700" y="483" width="207" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PORQeJfc5ye7-6kHceRO-9" value="Hierarchical Clustering&#xa;层次聚类" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=none;" vertex="1" parent="1">
@@ -3518,11 +3518,11 @@
         <mxCell id="PORQeJfc5ye7-6kHceRO-14" value="Non-Negative Matrix Factorization&#xa;非负矩阵分解" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1414" y="609" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PORQeJfc5ye7-6kHceRO-15" value="Consensus Partitioning&#xa;识别保守分区" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="PORQeJfc5ye7-6kHceRO-15" value="Consensus Partitioning&#xa;识别保守分区" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#ffcd28;strokeColor=none;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="693" y="737" width="221" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="PORQeJfc5ye7-6kHceRO-16" value="Output Results" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;labelBackgroundColor=none;fillColor=#e6d0de;strokeColor=none;gradientColor=#d5739d;" vertex="1" parent="1">
-          <mxGeometry x="721" y="841" width="165" height="54" as="geometry" />
+        <mxCell id="PORQeJfc5ye7-6kHceRO-16" value="Output Results" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;labelBackgroundColor=none;fillColor=#e6d0de;strokeColor=none;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="700" y="839" width="205" height="54" as="geometry" />
         </mxCell>
         <mxCell id="PORQeJfc5ye7-6kHceRO-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;startSize=8;endSize=8;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" edge="1" parent="1" source="PORQeJfc5ye7-6kHceRO-2" target="PORQeJfc5ye7-6kHceRO-3">
           <mxGeometry relative="1" as="geometry">
