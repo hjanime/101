@@ -3835,6 +3835,15 @@
         <mxCell id="Aq5LBTSAZAR19lRQ4bCV-43" value="&#xa;FASTA file&#xa;&#xa;&#xa;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="459.9966666666667" width="88" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="Aq5LBTSAZAR19lRQ4bCV-45" value="MLP layers" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="572.0033333333334" y="403.94" width="88" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq5LBTSAZAR19lRQ4bCV-46" value="Cross-entropy loss" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="859.9966666666666" y="392" width="128" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Aq5LBTSAZAR19lRQ4bCV-47" value="Esssential non-essential" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="876" y="532" width="157" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
